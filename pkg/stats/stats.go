@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/Firdavs2002/bankapp/pkg/bank/types"
+	"github.com/Bakhich/bank1/pkg/types"
 )
 
 //Avg расчитовает среднюю сумму платежа
