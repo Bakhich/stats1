@@ -1,2 +1,4 @@
 github.com/Bakhich/bank1 v1.0.0 h1:abN+rvbVbc+20H5Xtvn0MUUCYyAgFBSkgzGDoVZ0VJM=
 github.com/Bakhich/bank1 v1.0.0/go.mod h1:gjbrFapBJ2Lq6nbW7WdydnV76XuWPm2Q4QZrVrG3rqA=
+github.com/Bakhich/bank1/v2 v2.0.1-0.20210406090059-a25edc5b3c83 h1:L5GsWLcXliO4CvH/eji07R0r0OgbNE2qUGYVkk8YhNE=
+github.com/Bakhich/bank1/v2 v2.0.1-0.20210406090059-a25edc5b3c83/go.mod h1:BeXrjHNO8O0dFbBAaN+rmlJo8KxgvDB7ijUQdTAg35g=
