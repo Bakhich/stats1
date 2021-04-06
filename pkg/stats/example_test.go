@@ -12,16 +12,19 @@ func ExampleAvg() {
 			ID:       1,
 			Amount:   53_00,
 			Category: "Cat",
+			Status:   "OK",
 		},
 		{
 			ID:       2,
 			Amount:   51_00,
 			Category: "Cat",
+			Status:   "OK",
 		},
 		{
 			ID:       3,
 			Amount:   52_00,
 			Category: "Cat",
+			Status:   "FAIL",
 		},
 	}
 
